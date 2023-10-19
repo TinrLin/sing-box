@@ -134,12 +134,12 @@ service iptables save
 - **juicity**
 - **WireGuard--解锁 ChatGPT、Netflix、Disney+**
 - **Hysteria2**
-- **Vless+tcp**
-- **Vless+ws**
-- **Vless+gRPC**
-- **Vless+vision+Reality**
-- **Vless+h2+Reality**
-- **Vless+gRPC+Reality**
+- **VLESS+tcp**
+- **VLESS+ws**
+- **VLESS+gRPC**
+- **VLESS+vision+Reality**
+- **VLESS+h2+Reality**
+- **VLESS+gRPC+Reality**
 - **Direct--sing-box版任意门**
 - **Trojan+tcp**
 - **Trojan+ws**
